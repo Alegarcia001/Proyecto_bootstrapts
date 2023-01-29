@@ -1,0 +1,66 @@
+body {
+    background-image: url("../images/fondo.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg {
+    height: 180px;
+}
+
+.bg2 {
+    height: 180px;
+}
+
+.izquierda {
+    margin-left: calc(100% - 80px);
+    width: 100px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.logos {
+    width: 50px;
+    float: left;
+    margin-left: 25%;
+}
+
+h2 {
+    float: left;
+}
+
+.imgIzq {
+    float: left;
+    margin-left: 30%;
+}
+
+p {
+    margin-left: 5%;
+}
+
+li {
+    margin-left: 15%;
+}
+
+.botonAli {
+    margin-left: 15%;
+    padding: 10px;
+}
+
+button {
+    padding: 15px;
+    border-color: blue;
+}
+.fotoCentr{
+    margin-left: calc(50vw - 150px);
+    width: 300px;
+}
+.fotosDer{
+    margin-left: 25%;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
